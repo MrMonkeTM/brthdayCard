@@ -1,0 +1,111 @@
+/*pink: #EFB0C9
+blue: #a2d2ff
+white: #ffffff*/
+
+body {
+    text-align: center;
+    color: #ffffff;
+    background-color: black;
+    background-image: url("https://img2.goodfon.com/wallpaper/nbig/c/40/situaciya-nindzya-ninja-voin.jpg");
+    background-size: cover;
+    text-shadow: 0px 0px 4px black;
+}
+
+.message {
+    background: gray;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.continuation {
+    margin: 0%;
+    background: gray;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+#image {
+    font-family: Death;
+    border: 5px solid #ffffff;
+    width: 150px;
+    border-radius: 50%;
+}
+
+#header {
+    font-family: Death;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@font-face {
+    src: url("insomnia1.ttf");
+    font-family: Death;
+}
+
+.happy {
+    margin-bottom: 5px;
+}
+
+.hint {
+    margin-top: 0%;
+}
+
+.dankcube {
+    margin: 0 auto;
+    border: 5px solid gray;
+    border-radius: 20px;
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    background-image: url("https://media.discordapp.net/attachments/1076335468469301328/1077077708493824060/image.png?width=400&height=400");
+    margin-bottom: 100px;
+}
+
+.dankcube:hover {
+    background-image: url(https://i.pinimg.com/originals/0a/4f/31/0a4f315516cff981f33a1e601b1cfb57.gif)
+}
+
+.dankcube2 {
+    margin: 0 auto;
+    border: 5px solid gray;
+    border-radius: 20px;
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    background-image: url("https://cdn.discordapp.com/attachments/759059311405563924/1077311645514207354/image.png");
+    margin-bottom: 100px;
+}
+
+.dankcube2:hover {
+    background-image: url("https://media.discordapp.net/attachments/1076335468469301328/1077077708493824060/image.png?width=400&height=400");
+}
+
+.dankcube3 {
+    margin: 0 auto;
+    border: 5px solid gray;
+    border-radius: 20px;
+    width: 400px;
+    height: 200px;
+    background-size: cover;
+    background-image: url("https://cdn.discordapp.com/attachments/778691845780668489/1077314550338162688/image.png");
+}
+
+.dankcube3:hover {
+    background-image: url("https://cdn.discordapp.com/attachments/778691845780668489/1077318898245959850/technoneverdied.jpg");
+}
+
+.footer {
+    padding: 25px;
+    font-style: italic;
+}
+
+#cringe {
+    color: lightgrey;
+}
+
+#cringe:hover {
+    color: grey;
+}
